@@ -25,6 +25,7 @@
   * 좌표는 위도, 경도를 따로 작성
 * 별점 None 자료형 불가능
   * 좀만 더 하면 해결 가능 할 듯 하나 0.0이 불가능 한 점수이기 때문에, 단순히 0점 주는것으로 처리함.
+  * 통계 시 0.0 제외 신경쓰기
 * 공공 데이터 포탈(https://www.data.go.kr/index.do)의 서버 불안정 문제
   * 같은 API를 이용하는 네이버 클라우드 플랫폼의 API 이용.
   * https://www.ncloud.com/product/applicationService/maps
