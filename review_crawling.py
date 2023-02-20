@@ -145,6 +145,9 @@ def review_info():
         return 'review_error'
 
 
+#def popularity():
+
+
 basic = basic_info()
 if basic == 'basic_error':
     basic = ['', '', '']
