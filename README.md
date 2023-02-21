@@ -38,4 +38,6 @@
   * https://www.ncloud.com/product/applicationService/maps
 
 ### 어떤 데이터가 추가적으로 필요할 것인가?
-* 
+* 부동산 가격
+* 생활 인구 -> https://data.seoul.go.kr/dataVisual/seoul/seoulLivingPopulation.do
+* https://sg.sbiz.or.kr/godo/noticeInfo/gnbDataList.sg
