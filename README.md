@@ -36,3 +36,6 @@
 * 공공 데이터 포탈(https://www.data.go.kr/index.do)의 서버 불안정 문제
   * 같은 API를 이용하는 네이버 클라우드 플랫폼의 API 이용.
   * https://www.ncloud.com/product/applicationService/maps
+
+### 어떤 데이터가 추가적으로 필요할 것인가?
+* 
